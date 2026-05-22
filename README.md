@@ -19,13 +19,12 @@ The project includes:
 
 # 🚀 Live Application
 
-## Streamlit App
 https://telecom-churn-prediction-app-bvkbj8kf66utmem5e63ybv.streamlit.app/
 ```
 
 ---
 
-# 📊 Problem Statement
+📊 Problem Statement
 
 Customer churn is a major issue in the telecom industry. Retaining existing customers is often more cost-effective than acquiring new ones.
 
@@ -221,52 +220,12 @@ Customer-Churn-Project/
 
 ---
 
-# ⚡ Installation Guide
 
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/customer-churn-project.git
-```
-
----
-
-## Navigate Into Project Folder
-
-```bash
-cd customer-churn-project
-```
-
----
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# ▶️ Run the Application
-
-```bash
-streamlit run telcom_app.py
-```
-
----
-
-# 📷 Application Preview
-
-(Add screenshots of your Streamlit dashboard here)
-
-Example:
-
-```markdown
 # 📷 Application Preview
 
 ## Telecom Churn Dashboard
 
-![Telecom Dashboard](Screenshot.png)
+![Telecom-churn-prediction-app](Screenshot.png)
 ```
 
 ---
