@@ -226,6 +226,7 @@ Customer-Churn-Project/
 ## Telecom Churn Dashboard
 
 ![Telecom-churn-prediction-app](Screenshot.png)
+![Telecom-churn-prediction-app](Screenshot1.png)
 ```
 
 ---
